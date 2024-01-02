@@ -1,1 +1,4 @@
-[LAUNCH]
+[LAUNCH DAY]
+
+- A test fill to see how this text will look like in game!
+- Plans to update this soon
