@@ -1,4 +1,9 @@
-[Alpha Testing 1]
+[Alpha 1.0.0]
 
-- A test fill to see how this text will look like in game!
-- Plans to update this soon
+- Initial commit, Hello World!
+- REMEMBER TO BACKUP YOUR SAVES BEFORE UPDATING!
+
+- Initial modlist is developed for a Vanilla+ experience:
+- More Biomes, More Armor, More structures
+- Bug testing phase, keep an eye out for any issues!
+- Suggestions for changes are always open!
