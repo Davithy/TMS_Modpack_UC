@@ -1,4 +1,19 @@
-[Alpha Testing 2]
+[Alpha 1.0.1]
 
-- A test fill to see how this text will look like in game!
-- Plans to update this soon
+- REMEMBER TO BACKUP YOUR SAVES WHEN UPDATING!
+
+*[NEW MODS!]*
+- Added Mythic Metals
+- Added Realistic Sleep to speed up the nights you sleep through!
+- Added Inventory Management to save you some time adjusting those chests.
+- Added Emogg for those convos you just can't help but emote at
+- Added End Remastered to lengthen the tasks to get to the end
+- Added Wakes for the sea farers
+- Added More Chat History
+- Added Tool Tip Fix
+- Added Carpet
+- Added Packet Fixer
+- Still looking for a player to player tp mod (That isn't just through commands!)
+
+- Reintroduced default skill tree from Pufferfish's Skills mod
+- Removed the Auto Crouch mod due to an abundance of unintentional crouching.
