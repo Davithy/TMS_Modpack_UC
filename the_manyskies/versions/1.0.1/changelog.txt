@@ -3,6 +3,7 @@
 - REMEMBER TO BACKUP YOUR SAVES WHEN UPDATING!
 
 *[NEW MODS!]*
+
 - Added Mythic Metals
 - Added Realistic Sleep to speed up the nights you sleep through!
 - Added Inventory Management to save you some time adjusting those chests.
