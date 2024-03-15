@@ -4,7 +4,7 @@
 
 *[NEW MODS!]*
 
-- ~Added Mythic Metals~ Could not add Mythic Metals due to some server incompatibility. Looking into it when I can!
+- Added Mythic Metals
 - Added Realistic Sleep to speed up the nights you sleep through!
 - Added Inventory Management to save you some time adjusting those chests.
 - Added Emogg for those convos you just can't help but emote at
