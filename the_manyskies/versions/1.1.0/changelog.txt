@@ -1,0 +1,13 @@
+[Alpha 1.1.0]
+
+- REMEMBER TO BACKUP YOUR SAVES WHEN UPDATING!
+
+*[NEW MODS!]*
+
+- Added CIT Resewn! Now all Custom Item Texturepacks will work, prepare for pretty decorations!
+- Added headindex, for all the minute details that a custom head can fulfill
+- Added memory leak fix
+- Added modelfix
+- Added numismatic overhaul. Capitalism on the horizon...
+- Added RPRenames. Works best in tandem with CIT Resewn! Now it's easier to go through all your pretty decorations!
+- Still looking for a player to player tp mod (That isn't just through commands!)
