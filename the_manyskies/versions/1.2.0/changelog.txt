@@ -1,13 +1,18 @@
-[Alpha 1.1.0]
+[Alpha 1.2.0]
 
 - REMEMBER TO BACKUP YOUR SAVES WHEN UPDATING!
 
 *[NEW MODS!]*
 
-- Added CIT Resewn! Now all Custom Item Texturepacks will work, prepare for pretty decorations!
-- Added headindex, for all the minute details that a custom head can fulfill
-- Added memory leak fix
-- Added modelfix
-- Added numismatic overhaul. Capitalism on the horizon...
-- Added RPRenames. Works best in tandem with CIT Resewn! Now it's easier to go through all your pretty decorations!
-- Still looking for a player to player tp mod (That isn't just through commands!)
+- Added Let it rain (To prevent constant stormy nights (In theory))
+- Added Travelers backpacks! Now you too can carry more items in a pack.
+- Added Croptopia! We are starting to enter the cozy farmer arc (Still have quite a ways till we get there!)
+- Implemented pre-installed CITs! Now you can look through actual options with RPRenames!
+- Added Comforts! Now get cozy during your camping trips :) 
+- CARRY ON! Get to carryin’ fellas!
+- Trying out Nifty Carts! Just another casual way to travel the world with your items ~
+- Went ALL IN on Macaw’s mod family! Added in Macaw’s Roofs, Paths and Pavings, Paintings, Trapdoors, Doors, Bridges, Lights and Lamps, and EVEN Holidays!
+- Traded out EMOGG for Emojiful! Hopefully now we can start seeing emojis work out properly
+- YOSBR, aka Your options shall be respected! While there's no point to it right now, once I put this modpack on a mod site like curseforge/modrinth, It should keep your settings when I update the packs!
+
+As always, please let me know if there are any bugs and issues! I'll fix them as soon as I can!
